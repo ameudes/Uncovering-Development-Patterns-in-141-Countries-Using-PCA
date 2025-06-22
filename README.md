@@ -180,7 +180,7 @@ The last part (part 3) is marked by developed countries with a high tertiary sec
 
 FIGURE 3: Countries graph
 
-![alt text](Graphdesind.bmp)
+![alt text](https://github.com/ameudes/Uncovering-Development-Patterns-in-141-Countries-Using-PCA/blob/main/image/Graphdesind.bmp) 
 
 The direct graph allows us to identify certain countries that clearly characterize the different parts of the factorial plan. Part 1 is dominated by sub-Saharan African and Latin American countries. The second part includes countries from North America, North Africa and Asia. Part 3 is typical of European and North American countries.
 

@@ -170,7 +170,7 @@ TABLE IV: Correlation between variables and axis 2
 The first factorial plane illustrates the development cycle of the various economies in the dataset. Axes 1 and 2 divide the plane into three main parts (see figure 1). Part 1 of the diagram below characterizes underdeveloped countries with a high share of the primary sector (mainly agriculture) in GDP, and a low rate of industrialization with low growth in GDP per capita.
 
 Figure 1:  Variable graph
-![alt text](Picture1.png)
+![alt text](https://github.com/ameudes/Uncovering-Development-Patterns-in-141-Countries-Using-PCA/blob/main/image/Picture1.png)
 
 The second part (part 2), groups together emerging countries with high GDP growth, a strong preponderance of industry within their economy (high share of industry in GDP) and high values in terms of gross fixed capital formation.
 

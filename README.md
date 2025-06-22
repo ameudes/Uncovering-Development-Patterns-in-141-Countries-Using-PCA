@@ -127,7 +127,7 @@ Two main groups stand out in terms of correlations. The first group of variables
 - Share of population aged 65 and over  
 - Number of internet users (per 1000 inhabitants)
 
-➡️ **Group 2 (Positive correlation within Group 1)**
+➡️ **Group 2 (Positive correlation within Group 2)**
 
 - Share of agriculture in GDP  
 - Share of rural population  
@@ -176,7 +176,7 @@ The last part (part 3) is marked by developed countries with a high tertiary sec
 
 ## Countries projections
 
-FIGURE 3: Countries graph
+Figure 2: Countries graph
 
 ![alt text](https://github.com/ameudes/Uncovering-Development-Patterns-in-141-Countries-Using-PCA/blob/main/image/Graphdesind.bmp) 
 

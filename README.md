@@ -1,6 +1,4 @@
-
-
-
+![alt text](https://github.com/ameudes/Uncovering-Development-Patterns-in-141-Countries-Using-PCA/blob/main/image/Cover.png)
 
 # Introduction
 

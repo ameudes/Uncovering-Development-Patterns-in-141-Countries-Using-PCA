@@ -27,7 +27,7 @@ The dataset (a standardized Z table ) can be viewed geometrically in two differe
 The search for these subspaces is based on two principles:	the principle of maximum elongation and the principle of maximum spread. The first consists in finding good photos during projection. The second principle, that of maximum spread, is the search for the axis, plane or subspace (of dimension greater than or equal to 3) on which the elements are best spread. If we're interested in the cloud of variables, the quality of a photo is measured by its inertia.Finding the axis along which the cloud spreads best is to solve the program:
 
 $$
-max \ V'ZZ'V \\
+max \( V'ZZ'V )\\
 with \ the \ condition \ ||V^2||= 1
 $$
 
